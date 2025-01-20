@@ -10,8 +10,10 @@
 - 1800 rating in leetcode
 - 1400 rating in codeforces
 - make a 2d platformer game I'm proud of
-- become a software quant????
+- become a quant????
 
+## my main skillset:
+![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,bootstrap,react,nodejs,git,gitlab,github,docker,fastapi,mongodb,postgresql,unity,discord)
 <!--
 **Einja/Einja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
