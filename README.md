@@ -10,7 +10,7 @@
 - 1800 rating in leetcode
 - 1400 rating in codeforces
 - make a 2d platformer game I'm proud of
-- finish developing mini leetcode website
+- finish developing CodeCipher prototype
 - become a quant????
 
 ## my main skillset:
