@@ -11,7 +11,7 @@
 - 1400 rating in codeforces
 - make a 2d platformer game I'm proud of
 - finish developing CodeCipher prototype
-- become a quant????
+- find an entry level swe job
 
 ## my main skillset:
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,bootstrap,react,nodejs,next,git,gitlab,github,docker,fastapi,mongodb,postgresql,unity,k8s,discord)
