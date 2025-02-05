@@ -8,7 +8,7 @@
 
 ## current goals:
 - 1800 rating in leetcode
-- 1400 rating in codeforces
+- 1200 rating in codeforces
 - make a 2d platformer game I'm proud of
 - finish developing CodeCipher prototype
 - find an entry level swe job
