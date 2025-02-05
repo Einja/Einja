@@ -10,7 +10,7 @@
 - 1800 rating in leetcode
 - 1200 rating in codeforces
 - make a 2d platformer game I'm proud of
-- finish developing CodeCipher prototype
+- finish developing CodeStorm prototype
 - find an entry level swe job
 
 ## my main skillset:
