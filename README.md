@@ -14,7 +14,7 @@
 - find an entry level swe job
 
 ## my main skillset:
-![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,bootstrap,react,nodejs,next,git,gitlab,github,docker,fastapi,mongodb,postgresql,unity,k8s,discord)
+![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,bootstrap,tailwind,react,nodejs,next,git,gitlab,github,docker,firebase,fastapi,mongodb,postgresql,unity,k8s,discord)
 <!--
 **Einja/Einja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
