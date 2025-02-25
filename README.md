@@ -11,7 +11,6 @@
 - 1200 rating in codeforces
 - make a 2d platformer game I'm proud of
 - finish developing CodeStorm
-- find an entry level swe job (preferrably in ML/AI or Full-Stack dev)
 
 ## my main skillset:
 ![My Skills](https://skillicons.dev/icons?i=cpp,c,cs,py,js,html,css,bootstrap,tailwind,react,nodejs,next,git,gitlab,github,docker,firebase,fastapi,mongodb,postgresql,unity,k8s,discord)
