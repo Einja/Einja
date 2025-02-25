@@ -10,7 +10,7 @@
 - 1800 rating in leetcode
 - 1200 rating in codeforces
 - make a 2d platformer game I'm proud of
-- finish developing CodeStorm prototype
+- finish developing CodeStorm
 - find an entry level swe job (preferrably in ML/AI or Full-Stack dev)
 
 ## my main skillset:
