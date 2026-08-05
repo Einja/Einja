@@ -4,7 +4,7 @@
 
 ## about me:
 
-4th year computer science student, software developer, and aspiring indie game developer. I enjoy playing video games, solving algorithmic problems, and learning more about the tech world around me :)
+AHHHHHHHHHHHHHHHHHHHH
 
 ## current goals:
 - Don't become a middle aged failure
